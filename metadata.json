@@ -1,0 +1,5 @@
+{
+  "name": "Docket IQ ",
+  "description": "A comprehensive React-based management dashboard for a FastAPI court record scraping system. It features search capabilities, data visualization, and simulated scraping logic using Gemini AI to model real-world court data retrieval.",
+  "requestFramePermissions": []
+}
